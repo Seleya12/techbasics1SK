@@ -1,4 +1,4 @@
-# Python Week 1 Assignment 🐍
+# Python Week 1 Assignment 
 This repository contains my first Python assignment for the course.  
 The task was to create an ASCII art using only `print()` statements in Python.
 
